@@ -1,0 +1,29 @@
+Authentication is answering the question , "is the user who they claim to be?"
+
+1. I need users
+
+    URLS
+        GET /signup #=> see a form
+        POST /users #=>actually create a user
+
+    database
+        I need a users table to store their email
+2. I need to give users passwords
+3. I need to makre sure that I can find a user with their actual password
+4. change my login system to use their email and and password to authenticate
+
+
+THERE ARE THREE THINGS YOU CAN DO IN RUBY
+
+- create objects
+- call methods
+- set variables
+
+NEXT STEPS
+
+- build my user registration process (signup form and signup creation)
+- give posts to users
+- only let them edit posts they made
+-
+
+
